@@ -6,7 +6,7 @@ systemctl disable localserver
 
 # svn and tar
 # cd /home/oeasy/
-# svn checkout svn://zimg.0easy.com/face_node_v3  /home/oeasy/face_node --username jerry  --password 123456 
+# svn checkout svn://zimg.0easy.com/face_node_v3  /home/oeasy/face_node
 # sleep 10
 # cd face_node && unzip face_node_svn_comp_both.zip &&  mv face_node_svn/* .
 
